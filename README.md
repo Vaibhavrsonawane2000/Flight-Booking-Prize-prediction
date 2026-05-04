@@ -21,6 +21,19 @@ This project analyzes flight booking data to uncover pricing patterns, airline p
 * DAX (Measures & KPIs)
 * Power Query (Data Cleaning)
 * Python (Exploratory Analysis - Google colab)
+* SQL
+
+## SQL Analysis
+
+Performed SQL-based analysis to extract insights:
+
+- Aggregations (AVG, SUM, COUNT)
+- Grouping by airline, class, routes
+- Window functions (RANK, Running Average)
+- CASE statements for price categorization
+- Subqueries for identifying premium airlines
+
+SQL helped in validating insights used in the Power BI dashboard.
 
 ## Dashboard Features
 
